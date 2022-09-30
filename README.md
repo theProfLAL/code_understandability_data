@@ -23,3 +23,9 @@ Note that although each file groups data from different empirical studies, the d
 Columns G to AN were obtained by applying the SourceMeter tool (https://www.sourcemeter.com/) to the code snippets identified by column B. Every column reports a different measure, whose name is in row 1.
 Note that in some cases the value is NA, since SourceMeter does not provide a few metrics for some programming languages.
 Not all the measures given in the csv files were used in [2]. The meaning of the measures used in [2] can be found in the paper, for the other measures, make reference to SourceMeter's documentation.
+
+The provided data can be used for additional analysis, e.g., to apply model building techniques different from those used in [2], or to search for correlations involving different measures than those considered in [2].
+
+The supplied data could also be used to study the correlation among code measures, without considering understandability. however, this kind of study has already been done, on a larger and more representative code base. See for instance
+L. Lavazza, An Extended Study of the Correlation of Cognitive Complexity-related Code Measures
+International Journal on Advances in Software, vol 15 no 1&2, 2022.
