@@ -28,6 +28,6 @@ Not all the measures given in the csv files were used in [2]. The meaning of the
 
 The provided data can be used for additional analysis, e.g., to apply model building techniques different from those used in [2], or to search for correlations involving different measures than those considered in [2].
 
-The supplied data could also be used to study the correlation among code measures, without considering understandability. however, this kind of study has already been done, on a larger and more representative code base. See for instance
+The supplied data could also be used to study the correlation among code measures, without considering understandability. However, this kind of study has already been done, on a larger and more representative code base. See for instance
 L. Lavazza, An Extended Study of the Correlation of Cognitive Complexity-related Code Measures
 International Journal on Advances in Software, vol 15 no 1&2, 2022.
