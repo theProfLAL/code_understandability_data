@@ -3,7 +3,7 @@
 The data provided in the csv files concern code understandability and code measures.
 
 The following explanations make reference to two published papers:
-[1] Muñoz Barón, M., Wyrich, M., & Wagner, S. (2020, October). An empirical validation of cognitive complexity as a measure of source code understandability. 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1-12).
+[1] Muñoz Barón, M., Wyrich, M., & Wagner, S. (2020, October). An empirical validation of cognitive complexity as a measure of source code understandability. 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1-12). Available form https://arxiv.org/pdf/2007.12520
 [2] Lavazza, L., Abualkishik, A.Z., Liu, G., & Morasca, S. An Empirical Evaluation of the “Cognitive Complexity” Measure as a Predictor of Code Understandability. Journal of Systems and Software, to appear.
 
 Understandability data were collected via the experimental activities reported in [1].
@@ -30,4 +30,4 @@ The provided data can be used for additional analysis, e.g., to apply model buil
 The supplied data could also be used to study the correlation among code measures, without considering understandability. However, this kind of study has already been done, on a larger and more representative code base. See for instance
 L. Lavazza, An Extended Study of the Correlation of Cognitive Complexity-related Code Measures
 International Journal on Advances in Software, vol 15 no 1&2, 2022.
-
+Available here: https://www.iariajournals.org/software/soft_v15_n12_2022_paged.pdf
